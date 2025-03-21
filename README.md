@@ -24,5 +24,5 @@ DOMAIN : DATA SCIENCE
 
 BATCH : DW73
 
-LINKEDIN URL : 
+LINKEDIN URL : https://www.linkedin.com/posts/gowtham-kumar-pudi07_datascience-copperpricemodeling-predictiveanalytics-activity-7308830646888529920-54pR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJJIY4B6kabq7JfqxTZWqnn-0M3qqqTA6E
 
