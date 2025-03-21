@@ -17,3 +17,12 @@ The solution must include the following steps:
 4.ML Classification model which predicts Status: WON or LOST.
 
 5.Creating a streamlit page where you can insert each column value and you will get the Selling_Price predicted value or Status(Won/Lost)
+
+NAME : GOWTHAM KUMAR PUDI
+
+DOMAIN : DATA SCIENCE
+
+BATCH : DW73
+
+LINKEDIN URL : 
+
